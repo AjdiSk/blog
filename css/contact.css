@@ -1,0 +1,16 @@
+#contact {
+  text-align: center;
+}
+#email,
+#number {
+  margin-left: 70px;
+  font-size: xx-large;
+  margin-top: 70px;
+}
+
+#maps {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 70px;
+  margin-bottom: 30px;
+}
